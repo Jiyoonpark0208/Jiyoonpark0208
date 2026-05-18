@@ -32,7 +32,3 @@
 ## 📬 Contact
 [![Naver](https://img.shields.io/badge/ascii0208@naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:ascii0208@naver.com)
 
-
-
-
-![snake](https://github.com/Jiyoonpark0208/Jiyoonpark0208/blob/output/github-contribution-grid-snake.svg)
