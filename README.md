@@ -3,12 +3,10 @@
   <img src="https://render.gitanimals.org/farms/Jiyoonpark0208"/>
 </a>
 
----
 
 ## 🏆 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkuuuiii)](https://solved.ac/kkkuuuiii)
 
----
 
 ## 🛠 Tech Stack
 
@@ -32,7 +30,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
----
 
 ## 📬 Contact
 [![Naver](https://img.shields.io/badge/ascii0208@naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:ascii0208@naver.com)
